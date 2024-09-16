@@ -1,7 +1,6 @@
 {
     "name": "My Custom NFT #1",
     "description": "This is a description of My Custom NFT #1.",
-    "image": "Monkey-Selfie.webp",
     "attributes": [
       {
         "trait_type": "Background",
