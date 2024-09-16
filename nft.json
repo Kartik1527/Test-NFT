@@ -1,14 +1,16 @@
 {
-    "name": "My Custom NFT #1",
-    "description": "This is a description of My Custom NFT #1.",
+    "name": "Cool Crypto Cat",
+    "description": "A cool cat with a top hat.",
+    "image": "https://ipfs.io/ipfs/QmTzQFv1j2q2SjE4dWcU3y7nLeMLxu7b1tW8w5VZwZqv5W",
     "attributes": [
       {
-        "trait_type": "Background",
-        "value": "Blue"
+        "trait_type": "Hat",
+        "value": "Top Hat"
       },
       {
-        "trait_type": "Eyes",
-        "value": "Green"
+        "trait_type": "Fur Color",
+        "value": "Gray"
       }
     ]
   }
+  
